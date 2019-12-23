@@ -21,6 +21,7 @@ package com.frank.esay;
  */
 public class CountingPrime {
 
+
     /**
      * 通过厄拉多塞筛法实现，定义在类头注释，很强哦！
      * @param n
