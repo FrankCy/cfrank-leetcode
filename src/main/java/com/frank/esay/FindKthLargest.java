@@ -17,7 +17,7 @@ public class FindKthLargest {
 
         for(int i=0; i<nums.length; i++) {
             temp = nums[i];
-            for(j=i-1; j>=0 &&nums[j]>temp; j--) {
+            for(j=i-1; j>=0 && nums[j]>temp; j--) {
                 nums[j+1] = nums[j];
             }
             nums[j+1] = temp;
