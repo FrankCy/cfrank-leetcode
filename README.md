@@ -26,6 +26,7 @@ https://www.lintcode.com/problem/764
 CalculateCircumferentialLongArea.java
 4.巴什博奕
 https://www.lintcode.com/problem/1300
+BashGame.java
 - - -
 ### 阶段二：判断语句
 ①考察类型
@@ -35,16 +36,29 @@ https://www.lintcode.com/problem/1300
 ②必刷题目
 
 5.判断数字与字母字符
+https://www.lintcode.com/problem/23
+IsAlphanumeric.java
 
 6.闰年
+https://www.lintcode.com/problem/766
+IsLeapYear.java
 
 7.大小写转换
+https://www.lintcode.com/problem/145
+LowercaseToUppercase.java
 
 8.月份天数
+https://www.lintcode.com/problem/1141
+GetTheMonthDays.java
 
 9.简单计算器
+https://www.lintcode.com/problem/478
+Calculate.java
 
 10.三数之中的最大值
+https://www.lintcode.com/problem/283
+MaxOfThreeNumbers.java
+
 - - - 
 ### 阶段三：数组与循环
 ①考察类型
