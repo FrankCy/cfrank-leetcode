@@ -68,22 +68,40 @@ MaxOfThreeNumbers.java
 ②必刷题目
 
 11.打印X
+https://www.lintcode.com/problem/25
+PrintX.java
 
 12.数组的最大值
+https://www.lintcode.com/problem/214
+MaxOfArray.java
 
 13.生成给定大小的数组
+https://www.lintcode.com/problem/485
+Generate.java
 
 14.移动零
+https://www.lintcode.com/problem/539
+MoveZeroes.java
 
 15.寻找最大值
+https://www.lintcode.com/problem/297
+MaxNum.java
 
 16.交换数组两个元素
+https://www.lintcode.com/ problem/484
+SwapIntegers.java
 
 17.Fizz buzz问题
+https://www.lintcode.com/problem/9
+FizzBuzz.java
 
 18.冰雹猜想
+https://www.lintcode.com/problem/220
+GetAnswer.java
 
-19.加一
+19.加一（❌）
+https://www.lintcode.com/problem/407
+PlusOne.java
 
 20.回文数II
 
