@@ -116,13 +116,17 @@ IsPalindrome.java
 https://www.lintcode.com/problem/463
 SortIntegers.java
 
-22.寻找素数
+22.寻找素数（❌）
 https://www.lintcode.com/problem/298
+Prime.java
 
-
-23.数组第二大数
+23.数组第二大数（❌）
+https://www.lintcode.com/problem/479
+SecondMax.java
 
 24.主元素
+https://www.lintcode.com/problem/46
+MajorityNumber.java
 
 25.杨辉三角
 
