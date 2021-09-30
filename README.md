@@ -12,28 +12,33 @@
 https://zhuanlan.zhihu.com/p/357226599
 
 ### 阶段一：基本数据类型
-①考察类型
+- ①考察类型
 没有条件控制，没有循环，单纯的按从上到下的顺序执行代码，例如数学计算，取模等问题。
-②必刷题目
+
+- ②必刷题目
+
 1.A + B 问题
 https://www.lintcode.com/problem/1
 AbQuestion.java
+
 2.反转一个3位整数
 https://www.lintcode.com/problem/37
 ReversalThreeNumber.java
+
 3.计算圆周长和面积
 https://www.lintcode.com/problem/764
 CalculateCircumferentialLongArea.java
+
 4.巴什博奕
 https://www.lintcode.com/problem/1300
 BashGame.java
+
 - - -
 ### 阶段二：判断语句
-①考察类型
-
+- ①考察类型
 主要考察选择结构，没有循环，有if，else if，else等判断语句，例如判断闰年等问题
 
-②必刷题目
+- ②必刷题目
 
 5.判断数字与字母字符
 https://www.lintcode.com/problem/23
@@ -61,11 +66,11 @@ MaxOfThreeNumbers.java
 
 - - - 
 ### 阶段三：数组与循环
-①考察类型
+- ①考察类型
 
 主要考察数组、循环语句，以while、for循环为代码主体的题，不要出现字符串，如数组求和等问题。
 
-②必刷题目
+- ②必刷题目
 
 11.打印X
 https://www.lintcode.com/problem/25
@@ -103,11 +108,17 @@ GetAnswer.java
 https://www.lintcode.com/problem/407
 PlusOne.java
 
-20.回文数II
+20.回文数II（❌）
+https://www.lintcode.com/problem/807
+IsPalindrome.java
 
 21.整数排序
+https://www.lintcode.com/problem/463
+SortIntegers.java
 
 22.寻找素数
+https://www.lintcode.com/problem/298
+
 
 23.数组第二大数
 
@@ -126,11 +137,10 @@ PlusOne.java
 30.数组剔除元素后的乘积
 - - -
 ### 阶段四：字符串与循环
-①考察类型
-
+- ①考察类型
 考察字符串操作，例如判断回文串、求子串等问题
 
-②必刷题目
+- ②必刷题目
 
 31.旋转字符串
 
